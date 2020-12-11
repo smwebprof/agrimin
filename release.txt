@@ -1,0 +1,30 @@
+Date : 09/12/2020
+Changes : Fofsa form Comments,Viewoperations click error issue.
+Old Changes path : /public_html/agrimin/File_master_08122020.php
+New Changes path on local : /to_server/manoj_issues_04122020/
+===========================================================================================
+Date : 08/12/2020
+Changes : Manoj issues about Unit,load port,address
+Old Changes path : /public_html/agrimin_changes_backup/manoj_issues_04122020.zip
+New Changes path on local : /to_server/manoj_issues_04122020/
+===========================================================================================
+Date : 04/12/2020
+Changes : Viewfileregister - File No Search gives error.
+Old Changes path : /public_html/agrimin_changes_backup/admin_issues_05122020.zip
+New Changes path on local : Done from Home.
+===========================================================================================
+Date : 04/12/2020
+Changes : Agrmin User Manual Failed To Load.
+Old Changes path : /uploads/agrimin_user_manual_version_I.pdf
+New Changes path on local : /to_server/quality_certicate_issues_0212/
+===========================================================================================
+Date : 02/12/2020
+Changes : Jehidys Method coulmn to shift towards end.
+Old Changes path : /public_html/agrimin_changes_backup/quality_certicate_issues_0212.zip
+New Changes path on local : /to_server/quality_certicate_issues_0212/
+===========================================================================================
+Date : 02/12/2020
+Changes : View Inspection issue with cargo
+Old Changes path : /public_html/agrimin_changes_backup/admin_issues_0212.zip
+New Changes path on local : /to_server/admin_issues_0212.zip/
+===========================================================================================
